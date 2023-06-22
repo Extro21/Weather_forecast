@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         init()
         //rjvvbn1
+        //test4
+        //dsadada
 
 
 
