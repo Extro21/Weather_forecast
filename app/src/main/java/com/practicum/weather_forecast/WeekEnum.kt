@@ -8,4 +8,5 @@ enum class WeekEnum(val week : String)  {
     FRIDAY("Пт"),
     SATURDAY("Сб"),
     SUNDAY("Вс"),
+
 }
