@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
         init()
 
+
+
     }
 
 
@@ -28,6 +30,8 @@ class MainActivity : AppCompatActivity() {
             rcView.layoutManager = LinearLayoutManager(this@MainActivity, LinearLayoutManager.HORIZONTAL,false )
             rcView.adapter = adapter
             var temperature = 0
+
+
 
 
             for(element in WeekEnum.values()){
