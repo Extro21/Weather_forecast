@@ -26,6 +26,9 @@ class MainActivity : AppCompatActivity() {
       val sec23 = 1
       val sec236 = 1
 
+      val test11 = 1
+      val test111 = 1
+
 
     }
 
