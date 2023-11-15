@@ -19,11 +19,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         init()
-        //rjvvbn1
-        //test4
-        //dsadada
 
 
+      val sec = 1
+      val sec2 = 1
 
     }
 
