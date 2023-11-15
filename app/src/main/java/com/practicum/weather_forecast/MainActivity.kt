@@ -32,9 +32,6 @@ class MainActivity : AppCompatActivity() {
       val test13 = 1
       val test14 = 1
 
-       val test17 = 1
-       val test18 = 1
-
 
 
 
