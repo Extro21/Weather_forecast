@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
       val sec = 1
       val sec2 = 1
+      val sec23 = 1
 
     }
 
